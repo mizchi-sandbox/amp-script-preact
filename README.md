@@ -16,3 +16,7 @@ yarn dev
 npm i -g now
 now deploy
 ```
+
+## LICENSE
+
+MIT
