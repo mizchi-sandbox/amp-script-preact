@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "mizchi <miz404@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "now-start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
