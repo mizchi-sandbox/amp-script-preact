@@ -74,5 +74,5 @@ typings/
 # Serverless directories
 .serverless
 
-
-dist
+static/bundle.js
+dist/
